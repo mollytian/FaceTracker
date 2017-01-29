@@ -1,4 +1,4 @@
-# Project Title
+# Face Tracker
 
 This is the capstone project for the Coursera iOS App Development with Swift Specialization course. It can do real-time face tracking and add decoration onto the face.
 
